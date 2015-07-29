@@ -19,15 +19,16 @@ mp.getResources().then(function(resources){
 ```
 
 ##Methods
-- [Constructor](#Constructor)
-- [Resources](#Resources)
-- [Providers](#Providers)
-- [Categories](#Categories)
-- [Users](#Users)
-- [Slots](#Slots)
-- [Bookings](#Bookings)
-- [People](#People)
-- [Services](#Services)
+- [Constructor](#constructor)
+- [Resources](#resources)
+- [Providers](#providers)
+- [Categories](#categories)
+- [Users](#users)
+- [Slots](#slots)
+- [Bookings](#bookings)
+- [People](#people)
+- [Services](#services)
+- [Events](#events)
 
 ##Constructor
 
