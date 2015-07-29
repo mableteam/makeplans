@@ -1,0 +1,15 @@
+{
+  "name": "makeplans",
+  "version": "1.0.0",
+  "description": "Node wrapper for MakePlans API",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ben Brunton <ben.brunton@mable.co.uk>",
+  "license": "MIT",
+  "dependencies": {
+    "q": "^1.4.1",
+    "request": "^2.60.0"
+  }
+}
