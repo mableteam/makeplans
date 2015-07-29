@@ -14,7 +14,7 @@ function exec(fn){
    });
 }
 
-// mp.getResources(457)
+// mp.getResources(459)
 //    .then(function(resources){
 //       console.log(resources);
 //    })
@@ -22,14 +22,13 @@ function exec(fn){
 //       console.log(error);
 //    });
 
-// mp.getResourceOpeningHours(457, 
-//    {from:'2015-08-01', to: '2015-08-03'})
-//    .then(function(resources){
-//       console.log(resources);
-//    })
-//    .catch(function(error){
-//       console.log(error);
-//    });
+mp.getResourceOpeningHours(459, {})
+   .then(function(resources){
+      console.log(resources);
+   })
+   .catch(function(error){
+      console.log(error);
+   });
 
 // exec(function(){
 //    return mp.createResources({
