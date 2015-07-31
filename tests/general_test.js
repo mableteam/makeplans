@@ -22,13 +22,13 @@ function exec(fn){
 //       console.log(error);
 //    });
 
-mp.getResourceOpeningHours(459, {})
-   .then(function(resources){
-      console.log(resources);
-   })
-   .catch(function(error){
-      console.log(error);
-   });
+// mp.getResourceOpeningHours(459, {})
+//    .then(function(resources){
+//       console.log(resources);
+//    })
+//    .catch(function(error){
+//       console.log(error);
+//    });
 
 // exec(function(){
 //    return mp.createResources({
