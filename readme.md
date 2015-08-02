@@ -198,7 +198,7 @@ _params {from, selected\_resources}_ - querystring options
 
 ##makeplans.getUpcomingBookings( params? )
 
-##makeplans.getAgendaBookings( params? )
+##makeplans.getAgenda( params? )
 
 ##makeplans.getUnconfirmedBookings( params? )
 
