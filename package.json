@@ -1,6 +1,6 @@
 {
   "name": "makeplans",
-  "version": "1.0.10",
+  "version": "1.0.11",
   "description": "Node wrapper for MakePlans API",
   "main": "lib/index.js",
   "scripts": {
